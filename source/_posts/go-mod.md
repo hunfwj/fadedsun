@@ -4,11 +4,11 @@ date: 2021-04-11 19:53:51
 tags: go mod
 ---
 
-<!-- more -->
 ```
 go mod init example.com/mymodule
 ```
 
+<!-- more -->
 使用上述命令， 实际上只是在当前目录创建了go.mod文件,文件内容如下：
 ```
 module example.com/mymodule

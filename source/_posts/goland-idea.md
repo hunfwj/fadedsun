@@ -3,8 +3,9 @@ title: goland编辑器设置
 date: 2021-04-13 16:47:54
 tags: goland
 ---
-<!-- more -->
+
 双击shift唤出搜索框，输入下面搜索， 打开开关， 即可在右下角看到内存使用情况。
+<!-- more -->
 ```
 show memory indicator
 ```
