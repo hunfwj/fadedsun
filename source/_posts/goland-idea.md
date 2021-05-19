@@ -12,7 +12,7 @@ show memory indicator
 如果使用内存接近满值，就要考虑优化了。
 idea系列产品是使用java开发的， 那么我们可以使用jvm调优的思路来设置ide编辑器。
 
-
+<!-- more -->
 首先设置内存大小
 打开Help -》 Edit Custom VM Options，修改下面的参数
 ```

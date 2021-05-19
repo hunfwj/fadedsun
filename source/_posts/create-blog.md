@@ -10,7 +10,7 @@ tags:
 
 yum 是一个软件包管理器
 yum update
-
+<!-- more -->
 安装 docker
 yum install docker
 

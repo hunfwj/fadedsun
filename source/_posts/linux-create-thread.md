@@ -17,7 +17,7 @@ tags: Linux
 include/linux/sched.h
 ```
 
-进程描述符在源码中近600行
+进程描述符在源码中近600行<!-- more -->
 ```
 struct task_struct {
 #ifdef CONFIG_THREAD_INFO_IN_TASK
