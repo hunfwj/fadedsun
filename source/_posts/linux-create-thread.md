@@ -10,7 +10,7 @@ tags:
 > https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.0-rc3.tar.gz
 
 经常会遇到的面试题是: 进程和线程的区别?
-
+<!-- more -->
 进程成本高, 经常是持有资源的基本单位, etc.
 那么进程到底是什么样子呢?
 
@@ -19,7 +19,7 @@ tags:
 include/linux/sched.h
 ```
 
-进程描述符在源码中近600行<!-- more -->
+进程描述符在源码中近600行
 ```
 struct task_struct {
 #ifdef CONFIG_THREAD_INFO_IN_TASK

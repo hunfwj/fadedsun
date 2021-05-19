@@ -4,13 +4,14 @@ date: 2021-03-23 00:49:10
 tags: blog
 ---
 
+<!-- more -->
 购买一台服务器
 系统选择 Centos7.6
 选择无限制月流量的.
 
 yum 是一个软件包管理器
 yum update
-<!-- more -->
+
 安装 docker
 yum install docker
 

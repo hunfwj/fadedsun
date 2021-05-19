@@ -7,7 +7,7 @@ tags:
 ---
 
 pprof可以用来做程序分析， 包含内存， 堆，goroutine， block，锁等
-
+<!--more-->
 起一个简单的http
 ```
 package main
@@ -29,7 +29,7 @@ func main() {
 ```
 
 访问 http://127.0.0.1/debug/pprof/
-即可进入web页debug，如下图<!--more-->
+即可进入web页debug，如下图
 
 
 ![img](https://fadedsun.oss-cn-beijing.aliyuncs.com/img/2021519-21511.png)

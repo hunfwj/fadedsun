@@ -4,6 +4,7 @@ date: 2021-04-11 19:53:51
 tags: go mod
 ---
 
+<!-- more -->
 ```
 go mod init example.com/mymodule
 ```
@@ -22,7 +23,6 @@ go 1.14
 ```
 go get github.com/beego/beego/v2@v2.0.0
 ```
-<!-- more -->
 
 可以看到只是在文件中添加了require这一行， 和java的gradle类似
 ```
