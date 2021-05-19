@@ -1,7 +1,9 @@
 ---
 title: Linux如何创建进程
 date: 2021-03-30 11:46:54
-tags: Linux
+tags: 
+- Linux
+- thread
 ---
 
 > Linux版本: 5.0
