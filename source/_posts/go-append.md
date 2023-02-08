@@ -17,7 +17,7 @@ tags:
 //	slice = append([]byte("hello "), "world"...)
 func append(slice []Type, elems ...Type) []Type
 ```
-
+<!-- more -->
 append函数的作用是将一些元素追加到切片的末尾， 并返回新的切片
 
 此处的新， 只是可能。只有切片底层空间不够， 扩容的时候， 返回的切片地址才会更改。
